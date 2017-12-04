@@ -1,5 +1,5 @@
 {
-  "name": "three.js_triangulation",
+  "name": "three.triangulation",
   "version": "1.0.0",
   "description": "three.js - triangulation",
   "main": "triangulation.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wilt/three.js_triangulation.git"
+    "url": "git+https://github.com/akeyz/three.triangulation.git"
   },
   "author": "Wilt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Wilt/three.js_triangulation/issues"
+    "url": "https://github.com/akeyz/three.triangulation/issues"
   },
-  "homepage": "https://github.com/Wilt/three.js_triangulation#readme"
+  "homepage": "https://github.com/akeyz/three.triangulation#readme"
 }
